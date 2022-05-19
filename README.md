@@ -1,0 +1,1 @@
+Once installed, prints 'Test message 1' to the console
